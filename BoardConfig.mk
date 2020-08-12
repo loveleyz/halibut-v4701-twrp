@@ -147,3 +147,4 @@ TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 
 # If build on minimal-manifest sources
 ALLOW_MISSING_DEPENDENCIES=true
+LC_ALL=C
