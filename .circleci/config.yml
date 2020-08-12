@@ -33,3 +33,5 @@ workflows:
           branches:
              only: 'halibut'
           context: personal-envs
+          # if you are copy-pasting this script,
+          # set $GitHubMail, $GitHubName and $GITHUB_TOKEN in the environment variables
