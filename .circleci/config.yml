@@ -5,11 +5,11 @@ jobs:
       - image: fr3akyphantom/droid-builder:edge
     environment:
       MANIFEST_BRANCH: 'halibut'
-      PBRP_BRANCH: 'pbrp-7.1' # OPTIONAL:: If not default 'android-9.0', define other bootable_recovery branch
+      PBRP_BRANCH: 'android-7.1' # OPTIONAL:: If not default 'android-9.0', define other bootable_recovery branch
       VERSION: '3.0.0'
-      MAINTAINER: 'Daniel'
-      VENDOR: 'MyPhone'
-      CODENAME: 'halibut'
+      MAINTAINER: 'LiaFourté'
+      VENDOR: 'myphone'
+      CODENAME: 'V4701_I01'
       FLAVOR: 'eng'
       TEST_BUILD: 'true'
       # PB_OFFICIAL: "true"
