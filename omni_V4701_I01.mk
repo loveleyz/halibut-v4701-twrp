@@ -14,9 +14,9 @@ $(call inherit-product, vendor/pb/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_BRAND := myphone
-PRODUCT_DEVICE := brown 1
+PRODUCT_DEVICE := V4701_I01
 PRODUCT_MANUFACTURER := myphone
-PRODUCT_MODEL := brown 1
+PRODUCT_MODEL := brown_1
 PRODUCT_NAME := omni_V4701_I01
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
