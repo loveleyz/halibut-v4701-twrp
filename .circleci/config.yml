@@ -9,7 +9,7 @@ jobs:
       VERSION: '2.9.0'
       MAINTAINER: 'LiaFourté'
       VENDOR: 'MyPhone'
-      CODENAME: 'halibut'
+      CODENAME: 'V4701_I01'
       FLAVOR: 'eng'
       TEST_BUILD: 'true'
       # PB_OFFICIAL: "true"
