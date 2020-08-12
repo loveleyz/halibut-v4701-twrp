@@ -5,8 +5,8 @@ jobs:
       - image: fr3akyphantom/droid-builder:edge
     environment:
       MANIFEST_BRANCH: 'android-7.1'
-      PBRP_BRANCH: 'android-7.1' # OPTIONAL:: If not default 'android-9.0', define other bootable_recovery branch
-      VERSION: '3.0.0'
+      PBRP_BRANCH: 'Backup-2.9.0' # OPTIONAL:: If not default 'android-9.0', define other bootable_recovery branch
+      VERSION: '2.9.0'
       MAINTAINER: 'LiaFourté'
       VENDOR: 'MyPhone'
       CODENAME: 'halibut'
